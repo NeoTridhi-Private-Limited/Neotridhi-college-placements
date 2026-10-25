@@ -2,7 +2,7 @@
 
 # College Placements: Campus Recruitment Training Programme
 
-A complete placement course for **B.Tech, MCA,BSC and MBA** students by **NeoTridhi**: aptitude, verbal skills, technical skills, coding, interviews,
+A complete placement course for **B.Tech, MCA, BSC and MBA** students by **NeoTridhi**: aptitude, verbal skills, technical skills, coding, interviews,
 company-specific preparation, and how **AI** is changing hiring. Simple English, solved examples, practice sets with answers, code that runs, and
 AI mock interviews on **NeoHireAI**.
 
