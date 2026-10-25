@@ -3,7 +3,7 @@
 # Infosys: placement preparation at a glance
 
 > **Pattern as of October 2026 from public sources. Always check the official page before your test.**
-> This page is a free preview of the NeoTridhi course. The full Infosys chapter has 40 questions with worked solutions, a 4-week plan,
+> This page is a free preview of the NeoTridhi course. The full Infosys chapter has 40+ questions with worked solutions, a 4-week plan,
 > common traps and interview answers. [See how to get it](#get-the-full-infosys-chapter).
 
 [Back to all companies](../README.md#companies)
