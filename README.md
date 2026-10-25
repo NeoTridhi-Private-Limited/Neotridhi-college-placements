@@ -73,7 +73,7 @@ Each module page lists every topic, previews one topic and gives a few questions
 ## Get the full course
 
 The full course has every topic of all 7 modules, the complete company chapters, timed mock tests, PDFs for offline reading, trainer-led
-sessions at your college, and AI mock interviews for each company on **NeoHireAI**. Contact **NeoTridhi** at [neotridhi.tech](https://neotridhi.tech/).
+sessions at your college, and AI mock interviews for each company on **NeoHireAI**. Contact **NeoTridhi** at training@neotridhi.tech [neotridhi.tech](https://neotridhi.tech/).
 
 ## Honesty notes
 - Practice questions are **original**, written in the style of common placement tests. Company pages link to **official** sites.
