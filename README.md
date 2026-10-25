@@ -8,6 +8,40 @@ training programme, in simple English, with solved examples, practice sets with 
 > answers. Coding files are in each module's `code/` folder. PDFs for offline reading are in [`pdf/`](pdf/). Short video lessons (about 15 minutes each)
 > follow the same order.
 
+## Companies
+
+Click a company to see its recruitment process at a glance and try 5 questions with full solutions. The rest of each chapter is in the full course.
+
+<table>
+<tr>
+<td align="center" width="160"><a href="companies/infosys.md"><img src="assets/logos/infosys.svg" alt="Infosys" height="40"><br><sub>Infosys</sub></a></td>
+<td align="center" width="160"><sub><b>TCS</b><br>coming soon</sub></td>
+<td align="center" width="160"><sub><b>Wipro</b><br>coming soon</sub></td>
+<td align="center" width="160"><sub><b>Accenture</b><br>coming soon</sub></td>
+</tr>
+<tr>
+<td align="center"><sub><b>Cognizant</b><br>coming soon</sub></td>
+<td align="center"><sub><b>Capgemini</b><br>coming soon</sub></td>
+<td align="center"><sub><b>HCLTech</b><br>coming soon</sub></td>
+<td align="center"><sub><b>Tech Mahindra</b><br>coming soon</sub></td>
+</tr>
+<tr>
+<td align="center"><sub><b>LTIMindtree</b><br>coming soon</sub></td>
+<td align="center"><sub><b>Deloitte USI</b><br>coming soon</sub></td>
+<td align="center"><sub><b>IBM</b><br>coming soon</sub></td>
+<td align="center"><sub><b>Mphasis</b><br>coming soon</sub></td>
+</tr>
+<tr>
+<td align="center"><sub><b>Hexaware</b><br>coming soon</sub></td>
+<td align="center"><sub><b>Persistent Systems</b><br>coming soon</sub></td>
+<td align="center"><sub><b>Product companies</b><br>coming soon</sub></td>
+<td align="center"><sub><b>Non-IT and MBA recruiters</b><br>coming soon</sub></td>
+</tr>
+</table>
+
+<sub>Company names and logos are trademarks of their respective owners. They are used only to identify the companies whose public
+recruitment processes this course prepares for. NeoTridhi is not affiliated with or endorsed by them. Logo sources: [assets/logos/SOURCES.md](assets/logos/SOURCES.md).</sub>
+
 ## The modules
 
 | # | Module | What you will be able to do |
